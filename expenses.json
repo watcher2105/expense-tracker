@@ -1,0 +1,307 @@
+[
+    {
+        "amount": 3850.72,
+        "category": "Transport",
+        "date": "2024-06-21"
+    },
+    {
+        "amount": 480.45,
+        "category": "Food",
+        "date": "2024-03-04"
+    },
+    {
+        "amount": 945.35,
+        "category": "Entertainment",
+        "date": "2023-12-14"
+    },
+    {
+        "amount": 1223.97,
+        "category": "Shopping",
+        "date": "2024-05-11"
+    },
+    {
+        "amount": 310.87,
+        "category": "Utilities",
+        "date": "2024-08-19"
+    },
+    {
+        "amount": 1543.65,
+        "category": "Health",
+        "date": "2024-02-06"
+    },
+    {
+        "amount": 2230.09,
+        "category": "Education",
+        "date": "2024-01-22"
+    },
+    {
+        "amount": 178.34,
+        "category": "Miscellaneous",
+        "date": "2023-11-28"
+    },
+    {
+        "amount": 250.88,
+        "category": "Food",
+        "date": "2024-04-09"
+    },
+    {
+        "amount": 75.25,
+        "category": "Transport",
+        "date": "2024-07-04"
+    },
+    {
+        "amount": 1356.78,
+        "category": "Entertainment",
+        "date": "2024-09-12"
+    },
+    {
+        "amount": 920.6,
+        "category": "Shopping",
+        "date": "2024-03-24"
+    },
+    {
+        "amount": 489.32,
+        "category": "Utilities",
+        "date": "2024-08-01"
+    },
+    {
+        "amount": 311.44,
+        "category": "Health",
+        "date": "2024-05-22"
+    },
+    {
+        "amount": 45.89,
+        "category": "Education",
+        "date": "2023-12-03"
+    },
+    {
+        "amount": 333.56,
+        "category": "Miscellaneous",
+        "date": "2024-02-11"
+    },
+    {
+        "amount": 76.34,
+        "category": "Food",
+        "date": "2024-06-29"
+    },
+    {
+        "amount": 456.78,
+        "category": "Transport",
+        "date": "2024-04-15"
+    },
+    {
+        "amount": 1102.45,
+        "category": "Entertainment",
+        "date": "2023-11-02"
+    },
+    {
+        "amount": 560.0,
+        "category": "Shopping",
+        "date": "2024-09-05"
+    },
+    {
+        "amount": 127.43,
+        "category": "Utilities",
+        "date": "2024-07-21"
+    },
+    {
+        "amount": 643.22,
+        "category": "Health",
+        "date": "2024-03-15"
+    },
+    {
+        "amount": 829.37,
+        "category": "Education",
+        "date": "2024-02-18"
+    },
+    {
+        "amount": 305.12,
+        "category": "Miscellaneous",
+        "date": "2024-08-09"
+    },
+    {
+        "amount": 400.56,
+        "category": "Food",
+        "date": "2024-01-19"
+    },
+    {
+        "amount": 1170.99,
+        "category": "Transport",
+        "date": "2024-03-09"
+    },
+    {
+        "amount": 780.44,
+        "category": "Entertainment",
+        "date": "2024-07-30"
+    },
+    {
+        "amount": 1105.65,
+        "category": "Shopping",
+        "date": "2023-10-31"
+    },
+    {
+        "amount": 50.33,
+        "category": "Utilities",
+        "date": "2024-05-16"
+    },
+    {
+        "amount": 967.55,
+        "category": "Health",
+        "date": "2024-02-27"
+    },
+    {
+        "amount": 150.0,
+        "category": "Education",
+        "date": "2024-08-05"
+    },
+    {
+        "amount": 73.66,
+        "category": "Miscellaneous",
+        "date": "2024-04-24"
+    },
+    {
+        "amount": 225.44,
+        "category": "Food",
+        "date": "2024-07-01"
+    },
+    {
+        "amount": 4520.85,
+        "category": "Transport",
+        "date": "2024-06-12"
+    },
+    {
+        "amount": 545.0,
+        "category": "Entertainment",
+        "date": "2024-05-10"
+    },
+    {
+        "amount": 359.12,
+        "category": "Shopping",
+        "date": "2023-11-22"
+    },
+    {
+        "amount": 775.0,
+        "category": "Utilities",
+        "date": "2024-02-13"
+    },
+    {
+        "amount": 242.0,
+        "category": "Health",
+        "date": "2024-01-15"
+    },
+    {
+        "amount": 102.75,
+        "category": "Education",
+        "date": "2024-03-03"
+    },
+    {
+        "amount": 670.44,
+        "category": "Miscellaneous",
+        "date": "2024-08-22"
+    },
+    {
+        "amount": 409.32,
+        "category": "Food",
+        "date": "2024-04-05"
+    },
+    {
+        "amount": 620.76,
+        "category": "Transport",
+        "date": "2024-05-24"
+    },
+    {
+        "amount": 840.99,
+        "category": "Entertainment",
+        "date": "2023-12-18"
+    },
+    {
+        "amount": 580.34,
+        "category": "Shopping",
+        "date": "2024-01-05"
+    },
+    {
+        "amount": 331.55,
+        "category": "Utilities",
+        "date": "2024-07-09"
+    },
+    {
+        "amount": 1056.78,
+        "category": "Health",
+        "date": "2024-06-10"
+    },
+    {
+        "amount": 75.89,
+        "category": "Education",
+        "date": "2024-02-25"
+    },
+    {
+        "amount": 567.32,
+        "category": "Miscellaneous",
+        "date": "2024-08-29"
+    },
+    {
+        "amount": 950.67,
+        "category": "Food",
+        "date": "2024-04-26"
+    },
+    {
+        "amount": 120.0,
+        "category": "Transport",
+        "date": "2024-01-08"
+    },
+    {
+        "amount": 314.56,
+        "category": "Entertainment",
+        "date": "2023-10-21"
+    },
+    {
+        "amount": 499.23,
+        "category": "Shopping",
+        "date": "2024-09-10"
+    },
+    {
+        "amount": 440.76,
+        "category": "Utilities",
+        "date": "2024-06-14"
+    },
+    {
+        "amount": 399.44,
+        "category": "Health",
+        "date": "2024-03-08"
+    },
+    {
+        "amount": 150.89,
+        "category": "Education",
+        "date": "2024-05-31"
+    },
+    {
+        "amount": 322.56,
+        "category": "Miscellaneous",
+        "date": "2024-07-28"
+    },
+    {
+        "amount": 210.45,
+        "category": "Food",
+        "date": "2024-06-05"
+    },
+    {
+        "amount": 275.3,
+        "category": "Transport",
+        "date": "2024-03-27"
+    },
+    {
+        "amount": 852.14,
+        "category": "Entertainment",
+        "date": "2024-08-23"
+    },
+    {
+        "amount": 367.89,
+        "category": "Shopping",
+        "date": "2024-02-16"
+    },
+    {
+        "amount": 567.0,
+        "category": "Tv",
+        "date": "2024-01-21"
+    }
+]
